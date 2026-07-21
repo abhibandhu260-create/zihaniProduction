@@ -615,8 +615,7 @@ const HeroFrame = React.forwardRef(({ style, isActive, onNext }, ref) => (
           lineHeight: 1.6,
         }}
       >
-        Building the worlds films live in — from period interiors to
-        near-future showrooms.
+        Crafting immersive worlds for film — where every frame tells a story.
       </p>
     </div>
 
